@@ -17,4 +17,4 @@ while BMI < target_BMI:
     count += 1
 
 #BMIの目標値との差を出力
-print(count)
+print(count) 
