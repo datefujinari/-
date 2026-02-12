@@ -10,6 +10,9 @@ while weight > 0:
     weight -= 1
     count += 1
 
+# 変換　cm →　m
+H = H / 100
+
 #for文 解答（100点コード）
 for w in range(int(weight), -1, -1):
     bmi = w / (height ** 2)

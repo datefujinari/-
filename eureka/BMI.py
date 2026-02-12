@@ -1,4 +1,7 @@
-import sys
+#import sys
+#input_data = sys.stdin.read()
+# ↑処理が多い時に使う
+
 # 標準入力からデータを読み込み、改行で分割
 #input_data = sys.stdin.read().split()
 
